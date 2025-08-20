@@ -23,11 +23,11 @@ cloudflared tunnel --url http://localhost:5000
 <Stream url="wss://<your-subdomain>.trycloudflare.com/twilio" />
 ```
 
-#### 4) Run `call.js` (it will call the number specified)
+#### 4) Run `call-api.js` (it will call the number specified)
 ```bash
-cd test
 npm install
-node call.js
+node call-api.js
 ```
+
 
 
