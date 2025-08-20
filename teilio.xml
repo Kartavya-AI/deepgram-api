@@ -1,0 +1,6 @@
+
+<Response>
+    <Connect>
+        <Stream url="wss://your-deployed-domain.com/media-stream" />
+    </Connect>
+</Response>
