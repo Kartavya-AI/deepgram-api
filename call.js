@@ -11,7 +11,7 @@ const twiml = `
 <Response>
     <Say>Connecting to the call...</Say>
     <Connect>
-        <Stream url="wss://conversion-jesus-clients-cent.trycloudflare.com/twilio" />
+        <Stream url="wss://internal-completely-jobs-printed.trycloudflare.com/twilio" />
     </Connect>
 </Response>
 `;
