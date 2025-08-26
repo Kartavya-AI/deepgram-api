@@ -1,9 +1,9 @@
 import twilio from "twilio";
 
 const ACCOUNT_SID = "AC59b187f6e2ed73cebc6f8025af1058af";
-const AUTH_TOKEN = "28a1c9b3c3ee3faf02447d1c7f947d42";
+const AUTH_TOKEN = "f1e9b703a667540a9750fd5f432410c9";
 const FROM_NUMBER = "+18154291999";
-const TO_NUMBER = "+918700407283";
+const TO_NUMBER = "+917838034911";
 
 const twilioClient = twilio(ACCOUNT_SID, AUTH_TOKEN);
 
@@ -28,3 +28,4 @@ export default async function makeOutboundCall(to_number) {
 
 // Remove the immediate call - only call when imported
 // makeOutboundCall();
+
