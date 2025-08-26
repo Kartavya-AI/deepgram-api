@@ -118,7 +118,7 @@ Schedule follow-up
     "endpoint": {
       "url": "https://api.cartesia.ai/tts/bytes",
       "headers": {
-        "x-api-key": "sk_car_jW6nNtuyFW3yY1wMHF6gLs"
+        "x-api-key": "sk_car_uRNbPG9wLvMevSRb1PtZe7"
         }
       }
     },
@@ -331,3 +331,4 @@ if __name__ == "__main__":
         print(f"Server error: {e}")
 
         sys.exit(1)
+
